@@ -1,0 +1,7 @@
+train: D:\learn\zuhui\shiyan\240118Work\yolov8-main\datasets\images\train\
+val: D:\learn\zuhui\shiyan\240118Work\yolov8-main\datasets\images\val\
+test: D:\learn\zuhui\shiyan\240118Work\yolov8-main\datasets\images\test\
+
+nc : 1
+
+names: ['ship']
