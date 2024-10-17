@@ -1,0 +1,7 @@
+train: D:\learn\zuhui\shiyan\240118Work\ultralytics-8.1.0\ultralytics\dataset\SSDDR\images\train\
+val: D:\learn\zuhui\shiyan\240118Work\ultralytics-8.1.0\ultralytics\dataset\SSDDR\images\val\
+test: D:\learn\zuhui\shiyan\240118Work\ultralytics-8.1.0\ultralytics\dataset\SSDDR\images\val\
+
+nc : 1
+
+names: ['ship']

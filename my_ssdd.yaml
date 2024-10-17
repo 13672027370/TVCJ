@@ -1,0 +1,10 @@
+#train: D:\learn\zuhui\ultralytics-20240229\ultralytics-main\dataset\SSDD\images\train\
+train: D:\learn\zuhui\ultralytics-20240330\ultralytics-main\dataset\SSDD\images\train\
+val: D:\learn\zuhui\ultralytics-20240330\ultralytics-main\dataset\SSDD\images\val\
+test: D:\learn\zuhui\ultralytics-20240330\ultralytics-main\dataset\SSDD\images\val\
+#val: D:\learn\zuhui\ultralytics-20240229\ultralytics-main\dataset\SSDD\images\val\
+#test: D:\learn\zuhui\ultralytics-20240229\ultralytics-main\dataset\SSDD\images\val\
+
+nc : 1
+
+names: ['ship']
